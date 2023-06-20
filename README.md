@@ -1,2 +1,2 @@
 # u-massy.github.io
-このページはテストページです
+Githubのドメインのテスト
